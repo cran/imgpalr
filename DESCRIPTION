@@ -1,7 +1,7 @@
 Package: imgpalr
 Title: Create Color Palettes from Images
-Version: 0.3.0
-Authors@R: person("Matthew", "Leonawicz", email = "matt_leonawicz@esource.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0001-9452-2771"))
+Version: 0.3.1
+Authors@R: person("Matthew", "Leonawicz", email = "mfleonawicz@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0001-9452-2771"))
 Description: Provides ability to create color palettes from image files. 
     It offers control over the type of color palette to derive from an image (qualitative, sequential or divergent) and other palette properties.
     Quantiles of an image color distribution can be trimmed. 
@@ -16,11 +16,11 @@ URL: https://github.com/leonawicz/imgpalr
 BugReports: https://github.com/leonawicz/imgpalr/issues
 Suggests: testthat, covr, bmp, png, magick
 Language: en-US
-RoxygenNote: 7.0.1
+RoxygenNote: 7.1.1
 Imports: downloader, farver, tibble, magrittr, dplyr, jpeg
 NeedsCompilation: no
-Packaged: 2019-11-27 23:02:07 UTC; Matt
+Packaged: 2021-02-20 23:10:12 UTC; Matt
 Author: Matthew Leonawicz [aut, cre] (<https://orcid.org/0000-0001-9452-2771>)
-Maintainer: Matthew Leonawicz <matt_leonawicz@esource.com>
+Maintainer: Matthew Leonawicz <mfleonawicz@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-11-28 11:50:02 UTC
+Date/Publication: 2021-02-21 07:50:02 UTC
